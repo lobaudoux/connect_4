@@ -1,0 +1,8 @@
+EMPTY = 0
+YELLOW = 1
+RED = 2
+DRAW = 3
+SIZE_X = 7
+SIZE_Y = 6
+LEFT = -1
+RIGHT = 1
